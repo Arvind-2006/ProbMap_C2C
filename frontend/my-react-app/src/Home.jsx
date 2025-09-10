@@ -1,8 +1,11 @@
 import React from "react";
 import './Home.css'
-import zoro from './assets/zoro.jpg'
+import construction1 from './assets/construction1.jpg'
 import { VscArrowCircleRight } from "react-icons/vsc";
 import profile from './assets/profile.jpg'
+
+
+
 function Home(){
     return(
     <>
@@ -61,7 +64,7 @@ function Home(){
 
         </div>
         <div className="home-img">
-                <img src={zoro} alt="" />
+                <img src={construction1} alt="" />
         </div>
  
        

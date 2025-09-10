@@ -1,6 +1,8 @@
 import React from "react";
 import "./Why.css"
 import pl from "./assets/pl.jpg"
+import Map from "./assets/Map.jpg"
+
 
 function Why(){
   return (
@@ -48,7 +50,7 @@ function Why(){
 
       {/* Right Side (Sticky Image) */}
       <div className="sticky-image">
-        <img src={pl} alt="Credit Card" />
+        <img src={Map} alt="Credit Card" />
       </div>
     </div>
 
