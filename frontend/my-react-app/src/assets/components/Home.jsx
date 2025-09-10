@@ -4,8 +4,6 @@ import construction1 from './assets/construction1.jpg'
 import { VscArrowCircleRight } from "react-icons/vsc";
 import profile from './assets/profile.jpg'
 
-
-
 function Home(){
     return(
     <>
